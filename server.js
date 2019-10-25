@@ -33,11 +33,11 @@ var server = http.createServer(function (request, response) {
          <meta http-equiv="X-UA-Compatible" content="ie=edge">
          <title>画线</title>
             <link rel="stylesheet" href="/x" >
-            <script src="/y"></script>
         </head>
 
         <body>
             <canvas id="canvas"></canvas>
+            <script src="/y"></script>
         </body>
         </html>
         `);
